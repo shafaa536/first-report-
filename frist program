@@ -60,5 +60,5 @@ import java.util.Scanner;
 
                        if (this.average >=49 && this.average <=50){
 
-                    System.out.print("PASS");
+                    System.out.print("successful");
              }
