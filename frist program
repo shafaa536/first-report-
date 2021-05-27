@@ -62,3 +62,21 @@ import java.util.Scanner;
 
                     System.out.print("PASS");
              }
+             
+             // Enter the status of the successful student.
+
+             else {
+
+                    System.out.print("FAIL");
+           //Enter the status of the failed student.
+             }}
+                  public void displaymothode(){
+
+               System.out.println("Student ID : "+ this.yourID);
+            //Enter the student ID
+             System.out.println("Student Name : " + this.nameofstudent);
+            //Enter the student name
+             System.out.println("Overall Mark : " + this. Attendance);
+            //Enter the overall mark, Show absence percentage
+System.out.println("precntage : %" + this.average );
+    }         // calculate the percent
